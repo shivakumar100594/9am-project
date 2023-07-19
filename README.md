@@ -1,2 +1,2 @@
-# 9am-project
+# LMS-App
 My lms project
